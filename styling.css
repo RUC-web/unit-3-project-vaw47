@@ -1,0 +1,9 @@
+:root {
+  font-family:"garamond", baskerville, "baskerville old face", "hoefler text", "times new roman", serif;
+  font-size: 12.4em;
+  line-height: 1em;
+}
+
+html* {
+  box-sizing: border-box;
+}
