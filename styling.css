@@ -89,7 +89,7 @@ a:link {
 }
 .main h4 {
   padding-left: 1.5em;
-  padding-right: :1.5em;
+  padding-right: 1.5em;
 }
 .s2 {
   padding-left: 2.5em;
@@ -120,5 +120,14 @@ a:link {
   }
   .main-nav {
     font-size: 1.4em;
+  }
+  .main h3 {
+    font-size: 1.5em;
+  }
+  .main h4 {
+    font-size: 1.4em;
+  }
+  .main h5 {
+    font-size: 1.3em;
   }
 }
