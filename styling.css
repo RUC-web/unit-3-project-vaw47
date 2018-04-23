@@ -78,6 +78,9 @@ a:link {
   padding-left: .5em;
   padding-right: .5em;
 }
+.main h3, h4, h5 {
+  font-family:'Quintessential', cursive;
+}
 .main h3 {
   padding-left: .5em;
   padding-right: .5em;
@@ -87,6 +90,10 @@ a:link {
   padding-right: :1em;
 }
 .main h5 {
+  padding-left: 2em;
+  padding-right: 2em;
+}
+.contact {
   padding-left: 2em;
   padding-right: 2em;
 }
