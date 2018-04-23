@@ -71,9 +71,8 @@ a:link {
   font-family: "Cinzel Decorative", cursive;
   font-size: 1.1em;
   margin: 1.5em 0em 0em 0em;
-  padding-left: .5em;
 }
-.main p {
+.text {
   margin: 0 0 0 0;
   padding-left: .5em;
   padding-right: .5em;
@@ -81,21 +80,23 @@ a:link {
 .main h3, h4, h5 {
   font-family:'Quintessential', cursive;
 }
-.main h3 {
+.main h5 {
+  margin-bottom: 0em;
+}
+.s1 {
   padding-left: .5em;
   padding-right: .5em;
 }
 .main h4 {
-  padding-left: 1em;
-  padding-right: :1em;
+  padding-left: 1.5em;
+  padding-right: :1.5em;
 }
-.main h5 {
-  padding-left: 2em;
-  padding-right: 2em;
+.s2 {
+  padding-left: 2.5em;
+  padding-right: 2.5em;
 }
-.contact {
-  padding-left: 2em;
-  padding-right: 2em;
+.s2 p {
+  margin: 0em;
 }
 .header {
   position: relative;
