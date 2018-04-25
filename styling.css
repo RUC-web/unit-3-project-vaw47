@@ -61,6 +61,8 @@ html* {
   font-family:'Cinzel Decorative', cursive;
   font-size: 1.3em;
   color: #ffffff;
+  padding-left: .5em;
+  padding-right: .5em;
   display: flex;
   justify-content: center;
 }
